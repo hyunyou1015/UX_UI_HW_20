@@ -1,0 +1,82 @@
+/* add your css styles here! */
+body {
+    font-family: 'Comfortaa', cursive;
+    color: #111111;
+    font-size: 16px;
+    font-weight: 300;
+    background: #F4EFE8;
+}
+.heading1 {
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 128px;
+}
+h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 53px;
+}
+.navbar {
+    padding: 30px 50px;
+    align-items: center;
+    background-color: transparent !important;
+}
+.nav-item{
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-color: #111111;
+  }
+.hero_aj {
+    background-color: transparent !important;
+    height: 80vh;
+}
+.atticusText {
+    background-color: #F6D99B;
+    height: 488px;
+}
+.adonisText {
+    background-color: #FFB639;
+    height: 520px;
+}
+.verticalText{
+    font-weight: 600;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.story-div {
+    background-color: white;
+}
+.card_logo {
+    height: 128px !important;
+    width: auto !important;
+}
+.footer {
+    background-color: #FFB639;
+}
+.footerDescription {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    color: #111111;
+}
+.row {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.profile_aj {
+    background-color: #F6D99B;
+}
+.title_aj {
+    margin-bottom: 50px;
+}
+.jumbotron-story {
+    background-color: #F4EFE8 !important;
+}
+.card-margin {
+    margin: 20px;
+}
+.card-background {
+    background-color: #F4EFE8 !important;
+}
